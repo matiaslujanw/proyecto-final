@@ -1,0 +1,38 @@
+.cotizacion-container {
+    padding: 20px;
+  }
+  
+  .cotizacion-content {
+    margin-top: 20px;
+  }
+  
+  .cotizacion-form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .cotizacion-form label {
+    font-weight: bold;
+  }
+  
+  .cotizacion-form input[type="text"],
+  .cotizacion-form textarea,
+  .cotizacion-form select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .cotizacion-form input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .cotizacion-form input[type="submit"]:hover {
+    background-color: #0056b3;
+  }

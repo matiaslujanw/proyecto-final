@@ -1,0 +1,30 @@
+.home-container {
+    padding: 20px;
+  }
+  
+  .section-title {
+    color: #f5b410;
+  }
+  
+  .about-section {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .services-section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .services-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .services-list li {
+    color: #000;
+    margin-bottom: 5px;
+  }
+  
