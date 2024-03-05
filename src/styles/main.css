@@ -9,9 +9,9 @@
 }
 
 :root{
-    --maincolor: #252525;
+    --maincolor: #737373;
     --mainColorLight: #5767aa;
-    --secondaryColor: #f5b410; /* cambiar a amarillo */
+    --secondaryColor: #E3C71D; /* cambiar a amarillo */
     --textColor: #eee;
 }
 
