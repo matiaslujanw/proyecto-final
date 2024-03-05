@@ -1,12 +1,14 @@
 import React from 'react';
 import '../styles/footer.css';
 import { FaEnvelope, FaPhone } from 'react-icons/fa';
+import fotoLog from '../Assets/logo.png';
+
 
 const Footer = () => {
   return (
     <footer className='footer'>
-      <div className="footer-section">
-        <h6>Logo</h6>
+      <div className="footer-section" marginleft='0'>
+         < img src={fotoLog} alt="logo" style={{width: '15%'}}></img> 
         <img src='' alt='' />
       </div>
       <div className="footer-section">

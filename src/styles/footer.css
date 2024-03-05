@@ -14,7 +14,7 @@
 }
 
 .footer-section {
-  text-align: center;
+  text-align: left;
   margin-right: 20px;
 }
 
@@ -22,6 +22,7 @@
   border-bottom: 2px solid #fff;
   padding-bottom: 5px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .footer-section p {
@@ -32,4 +33,7 @@
 
 .footer-section p svg {
   margin-right: 5px;
+}
+.footer img {
+  margin-left: 0 !important; /* Ajusta el valor según sea necesario */
 }
